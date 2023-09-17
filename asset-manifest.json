@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sunghyunMoon/image-gallery.git/static/css/main.3649bcbc.css",
-    "main.js": "/sunghyunMoon/image-gallery.git/static/js/main.61d2e239.js",
-    "static/js/787.d7e7aaf3.chunk.js": "/sunghyunMoon/image-gallery.git/static/js/787.d7e7aaf3.chunk.js",
-    "index.html": "/sunghyunMoon/image-gallery.git/index.html",
-    "main.3649bcbc.css.map": "/sunghyunMoon/image-gallery.git/static/css/main.3649bcbc.css.map",
-    "main.61d2e239.js.map": "/sunghyunMoon/image-gallery.git/static/js/main.61d2e239.js.map",
-    "787.d7e7aaf3.chunk.js.map": "/sunghyunMoon/image-gallery.git/static/js/787.d7e7aaf3.chunk.js.map"
+    "main.css": "/sunghyunMoon/image-gallery/static/css/main.3649bcbc.css",
+    "main.js": "/sunghyunMoon/image-gallery/static/js/main.de000c61.js",
+    "static/js/787.d7e7aaf3.chunk.js": "/sunghyunMoon/image-gallery/static/js/787.d7e7aaf3.chunk.js",
+    "index.html": "/sunghyunMoon/image-gallery/index.html",
+    "main.3649bcbc.css.map": "/sunghyunMoon/image-gallery/static/css/main.3649bcbc.css.map",
+    "main.de000c61.js.map": "/sunghyunMoon/image-gallery/static/js/main.de000c61.js.map",
+    "787.d7e7aaf3.chunk.js.map": "/sunghyunMoon/image-gallery/static/js/787.d7e7aaf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3649bcbc.css",
-    "static/js/main.61d2e239.js"
+    "static/js/main.de000c61.js"
   ]
 }
